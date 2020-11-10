@@ -4,6 +4,7 @@ I'm Lanre, a Frontend Developer/Designer based in Lagos, Nigeria.  I build creat
  
 
 ⭐️ You can also find my work on [Codepen](https://codepen.io/lanrewaju).
+<br>
 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/lanrewaju/).
 
 
