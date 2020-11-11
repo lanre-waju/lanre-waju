@@ -7,7 +7,7 @@ I'm Lanre, a Frontend Developer/Designer based in Lagos, Nigeria.  I build creat
 <br>
 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/lanrewaju/).
 
-### 📕 Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [My Coding Journey in 2020 ~ #100DaysofCode Challenge Accepted](https://dev.to/lanrewaju/my-coding-journey-in-2020-100daysofcode-challenge-accepted-2efo)
