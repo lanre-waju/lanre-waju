@@ -17,12 +17,12 @@ I'm Lanre, a Frontend Developer/Designer based in Lagos, Nigeria.  I build creat
 
 ➡️ [more blog posts...](https://dev.to/lanrewaju)
 
-![Profile views](https://gpvc.arturio.dev/lanre-waju)  
+
 ---
 
 
 
-
+<!-- ![Profile views](https://gpvc.arturio.dev/lanre-waju)  -->
 
 
 
