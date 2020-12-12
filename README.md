@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Lanre, a Frontend Developer/Designer based in Lagos, Nigeria.  I build creative things on the web. I am learning everyday to be a better developer.
+I'm Lanre, a Frontend Developer/Designer based in Lagos, Nigeria.  I build creative things on the web. I am passionate in learning about new technologies!
  
 
 ⭐️ You can also find my work on [Codepen](https://codepen.io/lanrewaju).
